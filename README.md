@@ -36,6 +36,7 @@ I'm a passionate Full Stack Web App Developer with a keen interest in integratin
 ## 📂 Featured Projects
 
 - [AI Smart Task Manager](https://github.com/AiIntegratedDeveloperAbdullah/ai-smart-task-manager) - A full-stack application leveraging AI for intelligent task management.
+- [Advanced Algorithmic Optimizer](https://github.com/AiIntegratedDeveloperAbdullah/Advanced-Algorithmic-Optimizer) - A high-performance solution for Dynamic Multi-Agent Pathfinding with Real-Time Constraint Optimization.
 
 ## 📫 Get in Touch
 
