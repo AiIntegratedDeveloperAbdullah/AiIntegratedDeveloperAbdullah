@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm AiIntegratedDeveloperAbdullah! 👋
 
-<!--
-**AiIntegratedDeveloperAbdullah/AiIntegratedDeveloperAbdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer exploring various technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about learning and building. Currently, I'm working on web development projects.
+
+## My Skills
+
+- **Languages:** HTML
+- **Tools:** Git, GitHub
+
+## My Projects
+
+- [Shapescommunityclub.pk](https://github.com/AiIntegratedDeveloperAbdullah/Shapescommunityclub.pk) - A website project.
+
+## Get in Touch
+
+Feel free to connect with me!
