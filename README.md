@@ -24,9 +24,9 @@ I'm a **Full Stack Developer & AI Automation Architect** dedicated to building i
 
 | Category | Skills |
 | :--- | :--- |
-| **AI & Machine Learning** | Voice Cloning, Speech-to-Text (STT), Text-to-Speech (TTS), Advanced Cyber-AI |
-| **Specialized Tech** | Wi-Fi CSI Sensing, 3D House Tour Creation from 2D Imagery |
-| **Development** | Full-Stack Web Development, Application Development, Automation & Workflow Design |
+| **AI & Machine Learning** | Voice Cloning, Speech-to-Text (STT), Text-to-Speech (TTS), Advanced Cyber-AI,Ai Counciler |
+| **Specialized Tech** | FUll-STACK WEB DEVELOPMENT,Wi-Fi CSI Sensing, 3D House Tour Creation from 2D Imagery Wi-Fi CSI Sensing,Ai automation and workflow creation|
+| **Development** | Full-Stack Web Development, Application Development, Automation & Workflow Design,FUll website security handling,Bug founding using advance ai tools |
 | **Core Tech Stack** | **Manus**, **Claude**, **ChatGPT**, **Hugging Face**, **n8n**, **Replit**, **Cursor** |
 
 ### 🛠️ Tech Stack & Tools
@@ -161,8 +161,8 @@ An integrated platform designed to foster community engagement through innovativ
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AiIntegratedDeveloperAbdullah&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiIntegratedDeveloperAbdullah&layout=compact&theme=radical)
 
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
-- ⚡ Fun fact: I believe AI is the ultimate tool for human creativity.
+- 📫 How to reach me: Email:abdullahjutt.69453960@gmail.com,abdullah.4085d5e4@gmail.com,instgram id:https://www.instagram.com/m.abdu11ah__/
+- ⚡ Fun fact: I believe AI is the ultimate tool for human if they learn how to use it wisely not foolishly.
 
 ---
-*Professionalizing the future of AI-driven content.*
+*Professionalizing the future of AI-driven creations*
