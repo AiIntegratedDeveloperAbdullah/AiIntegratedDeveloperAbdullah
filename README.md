@@ -3,7 +3,75 @@
 ### 🤖 AI Engineer | Content Creator | Voice Synthesis Specialist
 
 <p align="center">
+  <a href=<p align="center">
   <a href="https://github.com/AiIntegratedDeveloperAbdullah">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=850&height=44&lines=Full%20Stack%20Developer%20%26%20AI%20Automation%20Architect%20%F0%9F%A4%96%F0%9F%92%BB%E2%9C%A8;Building%20intelligent%2C%20data-driven%20experiences%20with%20Cyber-AI." alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+I'm a **Full Stack Developer & AI Automation Architect** dedicated to building intelligent, data-driven systems. My work bridges the gap between complex AI capabilities and practical, scalable applications. From advanced cyber-AI to innovative sensing technologies, I focus on pushing the boundaries of what's possible in the digital and physical worlds.
+
+🔭 &nbsp;I'm currently working on **AI-powered automation workflows and advanced sensing systems.**
+🌱 &nbsp;I'm currently learning **Latest Cyber-AI capabilities and MLOps at scale.**
+
+### 🛠️ Expertise & Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **AI & Machine Learning** | Voice Cloning, Speech-to-Text (STT), Text-to-Speech (TTS), Advanced Cyber-AI |
+| **Specialized Tech** | Wi-Fi CSI Sensing, 3D House Tour Creation from 2D Imagery |
+| **Development** | Full-Stack Web Development, Application Development, Automation & Workflow Design |
+| **Core Tech Stack** | **Manus**, **Claude**, **ChatGPT**, **Hugging Face**, **n8n**, **Replit**, **Cursor** |
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Manus-2ea043?style=for-the-badge&logo=ai&logoColor=white" alt="Manus" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/Cursor-555555?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### 🎬 Content Creation
+
+Focusing on the intersection of **Web Development** and **AI Automations**, I create content that empowers developers to build smarter, faster, and more efficiently.
+- 💡 **AI Workflows**: Tutorials on n8n and automation design.
+- 🌐 **Modern Web**: Building scalable apps with the latest tech stacks.
+- 🤖 **Cyber-AI**: Exploring the frontiers of AI safety and capabilities.
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AiIntegratedDeveloperAbdullah&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AiIntegratedDeveloperAbdullah&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AiIntegratedDeveloperAbdullah&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/AiIntegratedDeveloperAbdullah">AiIntegratedDeveloperAbdullah</a></i></p>>
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Abdullah" alt="Hello! I'm Abdullah" />
   </a>
 </p>
