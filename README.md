@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abdullah
 
-### 🤖 AI Engineer | Content Creator | Voice Synthesis Specialist
+### 🤖 AI Engineer |FULL STACK WEB-DEV |CYBER EXPERT
 
 <p align="center">
   <a href=<p align="center">
